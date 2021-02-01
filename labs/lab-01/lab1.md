@@ -29,3 +29,8 @@
   * <img src="https://cdn.discordapp.com/attachments/366025595257225229/805540677357797386/unknown.png" width="500">
 * Completion of Snap
   * <img src="https://cdn.discordapp.com/attachments/366025595257225229/805553353160917022/unknown.png" width="500">
+  
+* Add a paragraph on how you are doing this activity
+  * So when looking for a open source project, I just googled "open source project" and saw what came up. Google has a bunch of open source softwares https://opensource.google/. When looking through all of these to see something that I liked, I saw Open Science Journal. Open Science Jornal is an anfroid app that uses the sensors from the phone to measure the enviroment around you to perform experiments and graph data. I find this sort of application very interesting since everyone has their phone at them at all times, this app could be further developed to do more with the sensors like alerting you when you are in an area that is loud enough to damage your hearing. Also if the phone's accelerometer's and GPS are being used, if you suffered a car crash, the phone would could detect the g-forces and notice the car not moving and immediately notify 911 of your location. 
+
+  
